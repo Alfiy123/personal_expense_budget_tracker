@@ -75,3 +75,4 @@ These messages label the milestones; they do not set the actual commit timestamp
 
 ## Notes
 This is a local learning project, not a production-ready financial service. Before public deployment, add CSRF protection, HTTPS, stricter session-cookie settings, rate limiting, and production database credentials. Do not upload real personal financial data to a test deployment.
+Project maintained by Alfiya Asre.
